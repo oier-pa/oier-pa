@@ -176,7 +176,7 @@ They remind me that discipline compounds over time.
 
 <img height="170" src="https://vercel-github-readme-stats-beige.vercel.app/api?username=oier-pa&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://vercel-github-readme-stats-beige.vercel.app/api/top-langs/?username=oier-pa&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://vercel-github-readme-stats-beige.vercel.app/api/top-langs/?username=oier-pa&layout=compact&theme=transparent&hide_border=true&cache_seconds=1"/>
 
 </p>
 
