@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/banner.png" width="100%" alt="Banner"/>
+
+<br>
+
 # Hi, I'm Oier 👋
 
 ### Software Development Student • Building AI-powered products for Human Performance
