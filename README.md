@@ -90,6 +90,15 @@ That's the future I'm building.
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+---
+
+## Frameworks & Mobile
+
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![Ionic](https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
 
 ---
 
@@ -100,6 +109,12 @@ That's the future I'm building.
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## AI Tools
+
+![Claude](https://img.shields.io/badge/Claude_Code-black?style=for-the-badge&logo=claude)
 
 ---
 
